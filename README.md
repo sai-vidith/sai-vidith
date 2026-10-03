@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Sai Vidith" />
+<img src="./header.svg" width="100%" alt="Sai Vidith" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+AI-native+systems;Distributed+GPU+Compute+%7C+RAG+%7C+Agents;Google+Cloud+Certified+ACE" alt="Typing SVG" />
@@ -47,4 +47,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vidith&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="./footer.svg" width="100%" />
